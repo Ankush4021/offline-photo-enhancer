@@ -224,3 +224,6 @@ server-grade GPUs will be quicker. The app still works — it just takes longer.
 | **Instructions** | the button in the Quick Start section |
 
 *Updated 2026-10-24 · Shared under the MIT License*
+
+
+*Last updated: 2026-10-24*
